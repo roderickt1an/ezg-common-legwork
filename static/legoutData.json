@@ -1,0 +1,104 @@
+{
+  "salers": [
+    {
+      "value": "schd",
+      "label": "市场活动"
+    },
+    {
+      "value": "khhf",
+      "label": "客户回访"
+    },
+    {
+      "value": "scbf",
+      "label": "首次拜访"
+    },
+    {
+      "value": "htqy",
+      "label": "合同签约"
+    },
+    {
+      "value": "ptst",
+      "label": "陪同商谈"
+    }
+  ],
+  "kj": [
+    {
+      "value": "gds",
+      "label": "国地税"
+    },
+    {
+      "value": "yh",
+      "label": "银行"
+    },
+    {
+      "value": "khbf",
+      "label": "客户拜访"
+    },
+    {
+      "value": "kjdj",
+      "label": "其他"
+    }
+  ],
+  "planner": [
+    {
+      "value": "fd",
+      "label": "辅导"
+    },
+    {
+      "value": "khhf",
+      "label": "客户回访"
+    },
+    {
+      "value": "hdpx",
+      "label": "活动培训"
+    },
+    {
+      "value": "zljj",
+      "label": "资料交接"
+    },
+    {
+      "value": "khbf",
+      "label": "客户拜访"
+    }
+  ],
+  "servicer": [
+    {
+      "value": "gs",
+      "label": "工商"
+    },
+    {
+      "value": "sj",
+      "label": "税局"
+    },
+    {
+      "value": "yh",
+      "label": "银行"
+    },
+    {
+      "value": "gjjzx",
+      "label": "公积金中心"
+    },
+    {
+      "value": "bwjf",
+      "label": "百望九赋"
+    },
+    {
+      "value": "htxx",
+      "label": "航天信息"
+    },
+    {
+      "value": "caszzs",
+      "label": "CA数字证书"
+    }
+  ],
+  "gzyzg": [
+    {
+      "value": "''",
+      "label": "无"
+    },
+    {
+      "value": "kfp",
+      "label": "开发票"
+    }
+  ]
+}
